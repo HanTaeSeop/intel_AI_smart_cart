@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # openvino-AI-project
-Gihub got openvino AI project(Human chasing mobility)
+Github got openvino AI project(Human chasing mobility)
 
 
 # Project Gantt Chart
