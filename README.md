@@ -95,13 +95,13 @@ flowchart TD
 <img src="./image/color detection.gif">
 
 -  등록된 사람의 색만을 감지하여 추적하여 그 사람만을 따라서 이동
-
+- [youtube](https://youtu.be/_wRFYKDJPEI)
 # deepSORT Result
 <img src="./image/deepSORT_test.gif">
 <img src="./image/deepSORT detection.gif">
 
 -  deepSORT로 detection된 사람의 ID를 추적하여 그 사람만을 따라서 이동
-
+- [youtube](https://youtu.be/VbNjdUlkjzU)
 # finished job
 1. ROS를 통한 turtle bot control Check
 2. jetson nano와 intel realsense connection Check
@@ -120,5 +120,5 @@ flowchart TD
 은찬, 태섭 : 최종 하드웨어 구성, Jeston nano 보드운영 환경 구축 (ROS,driver 설치), 서버(PC)와 client(Jetson)간 소켓 통신 구현, 시나리오에 따른 터틀봇 동작 구상, hand detection model 적용 <br>
 동현, 의근 : 최종 하드웨어 구성, realsense camera 연동, 사람 추적 알고리즘 개발(deepSORT), 색판별 알고리즘 개발(Color Classification), frame내 사람 위치에 따른 터틀봇 움직임 변화 logic개발
 
-https://docs.google.com/presentation/d/1Lx77uSf5PYn2l2sOHIAY5sZOlxNl3XysMNC4QXFoowY/edit#slide=id.g3060aae8cd2_1_7
+[ppt](https://docs.google.com/presentation/d/1Lx77uSf5PYn2l2sOHIAY5sZOlxNl3XysMNC4QXFoowY/edit#slide=id.g3060aae8cd2_1_7)
 =======
